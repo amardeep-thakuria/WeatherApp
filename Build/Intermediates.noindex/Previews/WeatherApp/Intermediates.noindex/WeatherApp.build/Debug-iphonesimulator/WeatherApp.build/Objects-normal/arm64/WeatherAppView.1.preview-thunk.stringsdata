@@ -1,0 +1,32 @@
+{
+  "source": "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Monday"
+      },
+      {
+        "comment": "",
+        "key": "Light rain"
+      },
+      {
+        "comment": "",
+        "key": "27°C"
+      },
+      {
+        "comment": "",
+        "key": "Search your city"
+      },
+      {
+        "comment": "",
+        "key": "Loading"
+      },
+      {
+        "comment": "",
+        "key": "Loading..."
+      }
+    ]
+  },
+  "version": 1
+}

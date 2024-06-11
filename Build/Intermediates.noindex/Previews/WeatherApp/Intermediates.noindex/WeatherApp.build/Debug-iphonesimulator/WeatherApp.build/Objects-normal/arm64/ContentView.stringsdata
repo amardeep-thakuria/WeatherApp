@@ -1,0 +1,36 @@
+{
+  "source": "/Users/apple/Desktop/WeatherApp/WeatherApp/View/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sunday"
+      },
+      {
+        "comment": "",
+        "key": "Jun 10th"
+      },
+      {
+        "comment": "",
+        "key": "Hyderabad"
+      },
+      {
+        "comment": "",
+        "key": "27°C"
+      },
+      {
+        "comment": "",
+        "key": "Extreme Cold"
+      },
+      {
+        "comment": "",
+        "key": "Search your city"
+      },
+      {
+        "comment": "",
+        "key": "Monday"
+      }
+    ]
+  },
+  "version": 1
+}

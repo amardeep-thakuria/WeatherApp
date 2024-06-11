@@ -1,0 +1,18 @@
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Offset.swift":
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.d"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.dia"
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.o"
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.swiftconstvalues"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.swiftdeps"
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Mutable.swift":
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.o"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.dia"
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.swiftconstvalues"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.swiftdeps"
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.d"
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/NativeObject.swift":
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.swiftconstvalues"
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.d"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.swiftdeps"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.dia"
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.o"

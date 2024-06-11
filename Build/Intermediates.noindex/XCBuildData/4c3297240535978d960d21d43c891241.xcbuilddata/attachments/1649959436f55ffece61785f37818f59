@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master.dia",
+    "emit-module-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master-emit-module.dia",
+    "swift-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master.swiftdeps"
+  },
+  "/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/OpenMeteoSdk.swift" : {
+    "const-values" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.swiftconstvalues",
+    "dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.d",
+    "diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.dia",
+    "index-unit-output-path" : "/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.o",
+    "llvm-bc" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.bc",
+    "object" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.o",
+    "swift-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk.swiftdeps",
+    "swiftmodule" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk~partial.swiftmodule"
+  },
+  "/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/Unit.swift" : {
+    "const-values" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.swiftconstvalues",
+    "dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.d",
+    "diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.dia",
+    "index-unit-output-path" : "/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.o",
+    "llvm-bc" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.bc",
+    "object" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.o",
+    "swift-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit.swiftdeps",
+    "swiftmodule" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/Unit~partial.swiftmodule"
+  },
+  "/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/VariablesWithTime.swift" : {
+    "const-values" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.swiftconstvalues",
+    "dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.d",
+    "diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.dia",
+    "index-unit-output-path" : "/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.o",
+    "llvm-bc" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.bc",
+    "object" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.o",
+    "swift-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime.swiftdeps",
+    "swiftmodule" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/VariablesWithTime~partial.swiftmodule"
+  },
+  "/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/weather_api_generated.swift" : {
+    "const-values" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.swiftconstvalues",
+    "dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.d",
+    "diagnostics" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.dia",
+    "index-unit-output-path" : "/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.o",
+    "llvm-bc" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.bc",
+    "object" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.o",
+    "swift-dependencies" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated.swiftdeps",
+    "swiftmodule" : "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/weather_api_generated~partial.swiftmodule"
+  }
+}

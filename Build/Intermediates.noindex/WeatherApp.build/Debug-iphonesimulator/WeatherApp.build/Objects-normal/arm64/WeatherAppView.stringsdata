@@ -1,0 +1,20 @@
+{
+  "source": "/Users/apple/Desktop/WeatherApp/WeatherApp/View/WeatherAppView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loading..."
+      },
+      {
+        "comment": "",
+        "key": "%@°C"
+      },
+      {
+        "comment": "",
+        "key": "Search your city"
+      }
+    ]
+  },
+  "version": 1
+}

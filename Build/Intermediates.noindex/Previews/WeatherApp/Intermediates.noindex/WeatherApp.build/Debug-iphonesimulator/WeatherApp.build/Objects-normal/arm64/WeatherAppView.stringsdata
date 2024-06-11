@@ -1,0 +1,36 @@
+{
+  "source": "/Users/apple/Desktop/WeatherApp/WeatherApp/View/WeatherAppView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loading..."
+      },
+      {
+        "comment": "",
+        "key": "Loading"
+      },
+      {
+        "comment": "",
+        "key": "%.1f°C"
+      },
+      {
+        "comment": "",
+        "key": "Search your city"
+      },
+      {
+        "comment": "",
+        "key": "Monday"
+      },
+      {
+        "comment": "",
+        "key": "Light rain"
+      },
+      {
+        "comment": "",
+        "key": "27°C"
+      }
+    ]
+  },
+  "version": 1
+}

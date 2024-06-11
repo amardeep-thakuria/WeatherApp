@@ -1,0 +1,18 @@
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Message.swift":
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.swiftconstvalues"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.dia"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.swiftdeps"
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.o"
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.d"
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatbuffersErrors.swift":
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.d"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.swiftdeps"
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.o"
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.swiftconstvalues"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.dia"
+"/Users/apple/Library/Developer/Xcode/DerivedData/WeatherApp-dhanymkjjccchxeyvwxcwlrqjhnv/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Int+extension.swift":
+  const-values: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.swiftconstvalues"
+  diagnostics: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.dia"
+  dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.d"
+  object: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.o"
+  swift-dependencies: "/Users/apple/Desktop/WeatherApp/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.swiftdeps"
