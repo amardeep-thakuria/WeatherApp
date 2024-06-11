@@ -64,8 +64,8 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
 - Use the search bar to find the weather information for different cities.
 
 ## Project_preview
+https://github.com/amardeep-thakuria/WeatherApp/assets/62172464/043b6d44-8907-4e76-b328-5e90a1967b5a
 
-<video src="Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-06-11%20at%2016.52.13.mp4" controls title="Title"></video>
 
 ## License
 
